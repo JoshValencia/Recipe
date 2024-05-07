@@ -1,0 +1,66 @@
+.reviews-section {
+  border-color: #d1dce7 !important;
+  padding: 38px 54px;
+}
+
+@media (max-width: 730px) {
+  .reviews-section {
+    padding: 38px 24px;
+  }
+}
+
+.text-blue {
+  color: #064781;
+}
+
+.reviews-section h2 {
+  margin-bottom: 30px;
+}
+
+.text-fade-grey {
+  color: #ececec;
+}
+
+.review-pills {
+  font-size: 14px;
+  color: #074880;
+  cursor: pointer;
+}
+
+.custom-add-photo {
+  cursor: pointer;
+  border: 1px dotted #064781;
+  padding: 14px 33px;
+}
+.custom-add-photo input {
+  display: none;
+}
+
+.add-photo-instructions p {
+  margin-bottom: 10px;
+  font-size: 14px;
+  color: #666666;
+}
+
+.add-photo-instructions li {
+  font-size: 14px;
+  color: #666666;
+}
+
+.btn-blue {
+  color: white;
+  background-color: #064781;
+  border-color: #064781;
+}
+
+.reviews-section .progress {
+  height: 10px;
+}
+
+.reviews-section .progress-bar {
+  background-color: #064781;
+}
+
+.review-progress-bar span {
+  font-size: 16px;
+}
